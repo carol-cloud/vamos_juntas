@@ -1,0 +1,27 @@
+ .social-icon {
+            padding: 18px;
+            border-radius: 8px;
+            background-color: #f1f1f2;
+            max-width: max-content;;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+.social-icon:hover {
+    background-color: #007bff;
+}
+
+.social-icon i {
+    font-size: 1.3rem;
+    color: #4f565c;
+}
+
+.social-icon:hover i {
+    color:#f1f1f2;
+}
+
+.link {
+    text-decoration: none !important;
+
+}
