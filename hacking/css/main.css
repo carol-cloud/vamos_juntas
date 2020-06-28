@@ -69,3 +69,19 @@
     font-family: 'DM Sans', sans-serif;
     color: white;
 }
+
+.imagem-ong {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.imagem-ong > img {
+    width: 70%;
+}
+
+
+.imagem-ong#purple{
+    background-color: #62205E;
+}
